@@ -31,7 +31,7 @@ The Terraform configuration creates the following resources:
 
 ## Accessing the OpenVPN Server
 
-Once the Terraform deployment is complete, you can access the OpenVPN server using the Elastic IP allocated to the EC2 instance. Connect to the server using an OpenVPN client with the appropriate client configuration.
+Once the Terraform deployment is complete, you can access the EC2 server to perform anOpenVPN server configration. After that using the Elastic IP allocated to the EC2 instance you can connect to the OpenVPN and set up the appropriate client configuration.
 
 ## Clean Up
 
